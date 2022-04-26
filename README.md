@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on writing readable code
-- 🌱 I’m currently working on Dolharu project with React and styled-components
+- 🌱 Working on a project with `React Native + Styled Components + TypeScript`
 - 😎 I love swing dance and jazz music
 
